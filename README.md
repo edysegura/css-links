@@ -10,6 +10,10 @@ My personal CSS links bookmark
 - [Maintainable CSS](http://maintainablecss.com/)
 - [CSS Brasil](http://cssbrasil.org/) (Portuguese)
 
+## Flexbox
+
+- [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ## Effects
 
 - [Caption Hover Effects](https://tympanus.net/codrops/2013/06/18/caption-hover-effects/)
