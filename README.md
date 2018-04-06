@@ -22,3 +22,9 @@ My personal CSS links bookmark
 ## Interactive
 
 - [CSS Diner](http://flukeout.github.io/)
+
+## Pure CSS
+
+- [The Simpsons in CSS](http://pattle.github.io/simpsons-in-css/)
+- [Zelda - A CSS Experiment](http://hop.ie/zelda/)
+- [Pure CSS Minion](http://cssdeck.com/labs/pure-css-minion)
