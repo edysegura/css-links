@@ -22,6 +22,7 @@ My personal CSS links bookmark
 ## Interactive
 
 - [CSS Diner](http://flukeout.github.io/)
+- [Periodic Table with CSS 3D and Threejs](http://mrdoob.com/lab/javascript/threejs/css3d/periodictable/)
 
 ## Pure CSS
 
