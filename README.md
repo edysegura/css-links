@@ -33,6 +33,7 @@ My personal CSS links bookmark
 
 ## Pure CSS
 
+- [CSS Icons](https://cssicon.space)
 - [The Simpsons in CSS](http://pattle.github.io/simpsons-in-css/)
 - [Zelda - A CSS Experiment](http://hop.ie/zelda/)
 - [Pure CSS Minion](http://cssdeck.com/labs/pure-css-minion)
