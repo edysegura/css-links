@@ -9,6 +9,10 @@ My personal CSS links bookmark
 - [Maintainable CSS](http://maintainablecss.com/)
 - [CSS Brasil](http://cssbrasil.org/) (Portuguese)
 
+## Guidelines
+
+- [SMACSS - Scalable and Modular Architecture for CSS](https://smacss.com/)
+
 ## Flexbox
 
 - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
