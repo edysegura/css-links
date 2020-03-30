@@ -37,6 +37,7 @@ My personal CSS links bookmark
 
 - [CSS Diner](http://flukeout.github.io/)
 - [Periodic Table with CSS 3D and Threejs](http://mrdoob.com/lab/javascript/threejs/css3d/periodictable/)
+- [Colouring with code](https://lubna.dev/articles/colouring-with-code/)
 
 ## Pure CSS
 
