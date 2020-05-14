@@ -44,6 +44,7 @@ My personal CSS links bookmark
 
 ## Pure CSS
 
+- [CSS3 Background Patterns](https://leaverou.github.io/css3patterns/)
 - [CSS Icons](https://cssicon.space)
 - [The Simpsons in CSS](http://pattle.github.io/simpsons-in-css/)
 - [Zelda - A CSS Experiment](http://hop.ie/zelda/)
