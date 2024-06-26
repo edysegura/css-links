@@ -28,6 +28,9 @@ My personal CSS links bookmark
 - [Responsive Tables: Grid Layout](https://codepen.io/tomhodgins/pen/akrRqX)
 - [Grid Garden](https://cssgridgarden.com/)
 
+## Animation
+- [Tailwindcss Animations](https://tailwindcss-animations.vercel.app/)
+
 ## Effects
 
 - [Perspective](https://rupl.github.io/unfold/)
