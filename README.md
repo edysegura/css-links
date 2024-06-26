@@ -29,6 +29,8 @@ My personal CSS links bookmark
 - [Grid Garden](https://cssgridgarden.com/)
 
 ## Animation
+
+- [Animate.css](https://animate.style/)
 - [Tailwindcss Animations](https://tailwindcss-animations.vercel.app/)
 
 ## Effects
