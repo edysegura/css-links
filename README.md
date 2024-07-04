@@ -20,6 +20,7 @@ My personal CSS links bookmark
 
 ## Flexbox
 
+- [Learn Flexbox](https://www.youtube.com/watch?v=Zln40_7VVts)
 - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox](https://flexboxfroggy.com/)
 
