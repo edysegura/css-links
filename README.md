@@ -10,14 +10,6 @@ My personal CSS links bookmark
 - [CSS Brazil](http://cssbrasil.org/) (Portuguese)
 - [Three CSS tips for working with inconsistently sized logos](https://youtube.com/shorts/Z6sNWaj_b8o)
 
-## RTL ( Right to Left )
-
-- [RTL Styling](https://www.rtlstyling.com/posts/rtl-styling/)
-
-## Guidelines
-
-- [SMACSS - Scalable and Modular Architecture for CSS](https://smacss.com/)
-
 ## Flexbox
 
 - [Learn Flexbox](https://www.youtube.com/watch?v=Zln40_7VVts)
@@ -60,3 +52,11 @@ My personal CSS links bookmark
 ## Libraries and Frameworks
 
 - [PICO CSS](https://picocss.com/)
+
+## Guidelines
+
+- [SMACSS - Scalable and Modular Architecture for CSS](https://smacss.com/)
+
+## RTL ( Right to Left )
+
+- [RTL Styling](https://www.rtlstyling.com/posts/rtl-styling/)
