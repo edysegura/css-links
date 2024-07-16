@@ -25,6 +25,7 @@ My personal CSS links bookmark
 
 - [Animate.css](https://animate.style/)
 - [Tailwindcss Animations](https://tailwindcss-animations.vercel.app/)
+- [Learn CSS Animations](https://www.youtube.com/watch?v=SgmNxE9lWcY)
 
 ## Effects
 
