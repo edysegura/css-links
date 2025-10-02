@@ -44,6 +44,7 @@ My personal CSS links bookmark
 
 ## Pure CSS
 
+- [CSS Shapes](https://css-tricks.com/the-shapes-of-css/)
 - [Slides](https://codepen.io/ancaspatariu/pen/WpQYOP)
 - [Form Validation](https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/#v5)
 - [CSS3 Background Patterns](https://leaverou.github.io/css3patterns/)
