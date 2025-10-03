@@ -12,6 +12,7 @@ My personal CSS links bookmark
 
 ## Flexbox
 
+- [Learn CSS Flexbox in 20min](https://www.youtube.com/watch?v=wsTv9y931o8)
 - [Learn Flexbox](https://www.youtube.com/watch?v=Zln40_7VVts)
 - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox](https://flexboxfroggy.com/)
